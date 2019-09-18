@@ -1,5 +1,5 @@
-Esta documento no pretende ser una referencia sobre la programación de sockets en C con la biblioteca de Berkeley, sino una pequeña ayuda para los estudiantes de la USAL de ingeniería informática, que en la asignatura Redes de Computadores I, se enfrentan por primera vez a la programación un socket.\
-Concretamente, este documento sería lo que me hubiera gustado leer cuando hice mi primer socket.\
+Esta documento no pretende ser una referencia sobre la programación de sockets en C con la biblioteca de Berkeley, sino una pequeña ayuda para aquellos que se enfrentan por primera vez a la programación un socket.\
+(Concretamente, este documento sería lo que me hubiera gustado leer cuando hice mi primer socket).\
 En el caso de que encuentres algún fallo, o quieras añadir algo, no dudes en contactarme.
 ***
 A lo largo de esta pequeña guía, se tratarán los siguientes temas:
